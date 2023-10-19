@@ -1,0 +1,251 @@
+Variable;Posición;Etiqueta;Nivel de medición;Rol;Ancho de columna;Alineación;Formato de impresión;Formato de grabación
+UPM;1;Unidad primaria de muestreo seleccionada;Escala;Entrada;7;Derecha;F5;F5
+NVIVI;2;Número de orden de la vivienda seleccionada;Escala;Entrada;7;Derecha;F3;F3
+NHOGA;3;Número de orden del hogar dentro de la vivienda seleccionada;Nominal;Entrada;7;Derecha;F1;F1
+DPTOREP;4;Departamentos representativos;Nominal;Entrada;10;Derecha;F8;F8
+AREA;5;Área de Residencia;Nominal;Entrada;6;Derecha;F1;F1
+L02;6;Línea de la persona;Nominal;Entrada;5;Derecha;F2;F2
+P02;7;Edad;Escala;Entrada;5;Derecha;F3;F3
+P03;8;Relación de parentesco;Nominal;Entrada;5;Derecha;F2;F2
+P04;9;Es miembro del hogar;Nominal;Entrada;5;Derecha;F1;F1
+P04A;10;Tiene cédula de identidad policial;Nominal;Entrada;6;Derecha;F1;F1
+P04B;11;Se anotó su nacimiento en el Registro Civil?;Nominal;Entrada;6;Derecha;F1;F1
+P05C;12;Su cónyuge;Nominal;Entrada;6;Derecha;F2;F2
+P05P;13;Su padre;Nominal;Entrada;6;Derecha;F2;F2
+P05M;14;Su madre;Nominal;Entrada;6;Derecha;F2;F2
+P06;15;Sexo;Nominal;Entrada;5;Derecha;F1;F1
+P08D;16;Día de nacimiento;Escala;Entrada;6;Derecha;F2;F2
+P08M;17;Mes de nacimiento;Nominal;Entrada;6;Derecha;F2;F2
+P08A;18;Año de nacimiento;Escala;Entrada;6;Derecha;F4;F4
+P09;19;Estado civil;Nominal;Entrada;5;Derecha;F1;F1
+P10A;20;Departamento donde vivía su madre cuando nació;Escala;Entrada;9;Derecha;F2;F2
+P10AB;21;Distrito donde vivía hace su madre cuando nació;Escala;Entrada;9;Derecha;F4;F4
+P10Z;22;Área donde vivía su madre cuando nació;Nominal;Entrada;9;Derecha;F1;F1
+P11A;23;Departamento donde vivía hace 5 años;Escala;Entrada;9;Derecha;F2;F2
+P11AB;24;Distrito donde vivía hace 5 años;Escala;Entrada;9;Derecha;F4;F4
+P11Z;25;Área donde vivía hace 5 años;Nominal;Entrada;9;Derecha;F1;F1
+P12;26;Por qué se mudó del lugar donde vivía hace 5 años;Nominal;Entrada;5;Derecha;F1;F1
+A01;27;Responde por sí misma;Nominal;Entrada;5;Derecha;F1;F1
+A01A;28;Línea de la persona que responde;Nominal;Entrada;6;Derecha;F2;F2
+A02;29;Realizó algún trabajo en los últimos 7 días;Nominal;Entrada;5;Derecha;F1;F1
+A03;30;Trabajó al menos 1 hora en los últimos 7 días;Nominal;Entrada;5;Derecha;F1;F1
+A04;31;Tiene trabajo aunque no haya realizado en los 7 días;Nominal;Entrada;5;Derecha;F1;F1
+A04B;32;Cuánto tiempo cree que duraría su ausencia en el trabajo;Nominal;Entrada;6;Derecha;F2;F2
+A04A;33;Cantidad de trabajos/empleos tenía;Nominal;Entrada;6;Derecha;F1;F1
+A05;34;Habría podido trabajar en los últimos 7 días;Nominal;Entrada;5;Derecha;F1;F1
+A07;35;Hizo algo para conseguir trabajo en los últ. 7 días;Nominal;Entrada;5;Derecha;F1;F1
+A08;36;Hizo algo para conseguir trabajo en los últ. 30 días;Nominal;Entrada;5;Derecha;F1;F1
+A10;37;Qué hizo para conseguir trabajo últ. 7días;Nominal;Entrada;5;Derecha;F2;F2
+A11A;38;Años está sin trabajo y busca activamente;Nominal;Entrada;6;Derecha;F1;F1
+A11M;39;Meses está sin trabajo y busca activamente;Nominal;Entrada;6;Derecha;F2;F2
+A11S;40;Semanas está sin trabajo y busca activamente;Nominal;Entrada;6;Derecha;F1;F1
+A12;41;¿Ha trabajado anteriormente?;Nominal;Entrada;5;Derecha;F1;F1
+A13REC;42;Última Ocupación (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+A14REC;43;Rama de Actividad de la última Ocupación (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+A15;44;Categoría que tenía;Nominal;Entrada;5;Derecha;F1;F1
+A16;45;Cantidad de personas que trabajaban;Nominal;Entrada;5;Derecha;F2;F2
+A17A;46;Años está sin trabajo;Escala;Entrada;6;Derecha;F2;F2
+A17M;47;Meses está sin trabajo;Nominal;Entrada;6;Derecha;F2;F2
+A17S;48;Semanas está sin trabajo;Nominal;Entrada;6;Derecha;F1;F1
+A18;49;Razón por la que dejó su última ocupación;Nominal;Entrada;5;Derecha;F2;F2
+B01REC;50;Ocupación Principal (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+B02REC;51;Rama de Actividad en Ocupación Principal (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+B03LU;52;Horas y Minutos lunes;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03MA;53;Horas y Minutos martes;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03MI;54;Horas y Minutos miércoles;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03JU;55;Horas y Minutos jueves;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03VI;56;Horas y Minutos viernes;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03SA;57;Horas y Minutos sábado;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B03DO;58;Horas y Minutos domingo;Escala;Entrada;8;Derecha;DOT6.2;DOT6.2
+B04;59;¿Es la cantidad de horas que habitualmene trabaja...?;Nominal;Entrada;5;Derecha;F1;F1
+B05;60;Razón por la que no trabajó el N° habitual de horas;Nominal;Entrada;5;Derecha;F2;F2
+B06;61;Hs. trabaja habitualmente en esta Ocupación;Escala;Entrada;10;Derecha;DOT8.2;DOT8.2
+B07A;62;Años de su vida ha trabajado en esta ocupación;Escala;Entrada;6;Derecha;F2;F2
+B07M;63;Meses de su vida ha trabajado en esta ocupación;Nominal;Entrada;6;Derecha;F2;F2
+B07S;64;Semanas de su vida ha trabajado en esta ocupación;Nominal;Entrada;6;Derecha;F1;F1
+B08;65;Cantidad de personas que trabajan;Nominal;Entrada;5;Derecha;F2;F2
+B09A;66;Años de su vida trabaja en el establecimiento;Escala;Entrada;6;Derecha;F2;F2
+B09M;67;Meses de su vida trabaja en el establecimiento;Nominal;Entrada;6;Derecha;F2;F2
+B09S;68;Semanas de su vida trabaja en el establecimiento;Nominal;Entrada;6;Derecha;F1;F1
+B10;69;Aporta a una caja de jubilación;Nominal;Entrada;5;Derecha;F1;F1
+B11;70;¿A cuál caja aporta?;Nominal;Entrada;5;Derecha;F1;F1
+B12;71;Categoría en Ocupación Principal;Nominal;Entrada;5;Derecha;F1;F1
+B12A;72;Por este trabajo tiene seguro privado?;Nominal;Entrada;6;Derecha;F1;F1
+B12B;73;Cómo paga el costo de su seguro?;Nominal;Entrada;6;Derecha;F1;F1
+B12C;74;Qué porcentaje paga usted?;Nominal;Entrada;6;Derecha;F3;F3
+B13;75;Dispone de vacaciones anuales;Escala;Entrada;5;Derecha;F2;F2
+B14;76;¿Dispone semanalmente de días/s de descanso?;Nominal;Entrada;5;Derecha;F2;F2
+B15;77;Ud. forma parte de algún sindicato o asociación de empleados;Nominal;Entrada;5;Derecha;F1;F1
+B16G;78;Gs. último pago Neto o Líquido Ocupación Principal;Escala;Entrada;13;Derecha;F11;F11
+B16U;79;Unidad de tiempo;Nominal;Entrada;6;Derecha;F1;F1
+B16D;80;Nº de días;Nominal;Entrada;6;Derecha;F2;F2
+B16T;81;Gs. total mensual Ocupación Principal;Escala;Entrada;13;Derecha;F11;F11
+B17;82;Recibió sueldo o salario adicional;Nominal;Entrada;5;Derecha;F1;F1
+B18AG;83;Gs. monto adicional: horas extras,comisión,etc.;Escala;Entrada;13;Derecha;F11;F11
+B18AU;84;Unidad de tiempo;Nominal;Entrada;7;Derecha;F1;F1
+B18BG;85;Monto adicional: Aguinaldo;Escala;Entrada;13;Derecha;F11;F11
+B18BU;86;Aguinaldo, unidad de tiempo;Nominal;Entrada;7;Derecha;F1;F1
+B19;87;Recibió comidas/bebidas gratis;Nominal;Entrada;5;Derecha;F1;F1
+B20G;88;Gs. estima el valor de comida/bebida;Escala;Entrada;13;Derecha;F11;F11
+B20U;89;Unidad de tiempo;Nominal;Entrada;6;Derecha;F1;F1
+B20D;90;N° de días;Nominal;Entrada;6;Derecha;F2;F2
+B20T;91;Gs. mensual por comida/bebida;Escala;Entrada;13;Derecha;F11;F11
+B21;92;Ocupa o alquila casa, pieza o dpto.;Nominal;Entrada;5;Derecha;F1;F1
+B22;93;Gs. paga alquiler por mes;Escala;Entrada;13;Derecha;F11;F11
+B23;94;Gs. estima pagaría por mes si alquilara de otro;Escala;Entrada;13;Derecha;F11;F11
+B24;95;Recibe al año uniforme/ropa gratis;Nominal;Entrada;5;Derecha;F1;F1
+B25;96;Gs. estima valor anual de uniforme/ropa;Escala;Entrada;13;Derecha;F11;F11
+B26;97;Bajo qué tipo de contrato trabaja;Nominal;Entrada;5;Derecha;F1;F1
+B271;98;¿Quién/es conduce/n o maneja/n el establecimiento o negocio (1)?;Nominal;Entrada;6;Derecha;F2;F2
+B272;99;¿Quién/es conduce/n o maneja/n el establecimiento o negocio (2)?;Nominal;Entrada;6;Derecha;F2;F2
+B28;100;¿Tiene RUC el establecimiento o negocio?;Nominal;Entrada;5;Derecha;F1;F1
+B29;101;¿Cuál es la condición jurídica del establecimiento?;Nominal;Entrada;5;Derecha;F1;F1
+B30;102;El establecimiento donde trabaja ¿emite factura legal?;Nominal;Entrada;5;Derecha;F1;F1
+B31;103;¿Tenía otro trabajo en los últimos 7 días?;Nominal;Entrada;5;Derecha;F1;F1
+C01REC;104;Ocupación Secundaria (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+C02REC;105;Rama de Actividad en Ocupación Secundaria (Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+C03;106;Hs. trabajó efectivamente en Ocupación Secundaria;Escala;Entrada;10;Derecha;DOT8.2;DOT8.2
+C04;107;Es habitual estas horas de trabajo;Nominal;Entrada;5;Derecha;F1;F1
+C05;108;Hs. que habitualmente trabaja en Ocupación Secundaria;Nominal;Entrada;10;Derecha;DOT8.2;DOT8.2
+C06;109;Cantidad de personas trabajan en el establecimiento;Nominal;Entrada;5;Derecha;F2;F2
+C07;110;Aporta a una caja de jubilación por este trabajo;Nominal;Entrada;5;Derecha;F1;F1
+C08;111;¿A cuál caja aporta?;Nominal;Entrada;5;Derecha;F1;F1
+C09;112;Categoría que tiene en Ocupación Secundaria;Nominal;Entrada;5;Derecha;F1;F1
+C101;113;¿Quién/es conduce/en o maneja/an el establecimiento o negocio (1)?;Nominal;Entrada;6;Derecha;F2;F2
+C102;114;¿Quién/es conduce/en o maneja/an el establecimiento o negocio (2)?;Nominal;Entrada;6;Derecha;F2;F2
+C11G;115;Gs. pago Neto o Líquido Ocupación Secundaria;Escala;Entrada;13;Derecha;F11;F11
+C11U;116;Unidad de tiempo;Nominal;Entrada;6;Derecha;F1;F1
+C11D;117;Nº de días;Nominal;Entrada;6;Derecha;F2;F2
+C11T;118;Gs. total mensual Ocupación Secundaria;Escala;Entrada;13;Derecha;F11;F11
+C12;119;Recibió sueldos o salarios adicionales;Nominal;Entrada;5;Derecha;F1;F1
+C13AG;120;Monto adicional: horas extras, comisión;Escala;Entrada;13;Derecha;F11;F11
+C13AU;121;Unidad de tiempo;Nominal;Entrada;7;Derecha;F1;F1
+C13BG;122;Aguinaldo;Escala;Entrada;13;Derecha;F11;F11
+C13BU;123;Unidad de tiempo;Nominal;Entrada;7;Derecha;F1;F1
+C14;124;¿Bajo qué tipo de contrato trabaja?;Nominal;Entrada;5;Derecha;F1;F1
+C14A;125;¿Tiene RUC el establecimiento o negocio?;Nominal;Entrada;6;Derecha;F1;F1
+C14B;126;¿Cuál es la condición jurídica del establecimiento?;Nominal;Entrada;6;Derecha;F1;F1
+C14C;127;El establecimiento donde trabaja ¿emite factura legal?;Nominal;Entrada;6;Derecha;F1;F1
+C15;128;Cuántas otras ocupaciones tuvo o tiene en últimos 7 días?;Nominal;Entrada;5;Derecha;F1;F1
+C16REC;129;Otra Ocupación (Terciaria Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+C17REC;130;Rama de Actividad en Otra Ocupación (Terciaria Recodificada);Nominal;Entrada;8;Derecha;F2;F2
+C18;131;Hs. que efectivamente trabajó en Ocupación (Otras);Escala;Entrada;10;Derecha;DOT8.2;DOT8.2
+C18A;132;La cantidad de horas que trabajó es habitual;Nominal;Entrada;6;Derecha;F1;F1
+C18B;133;Cuántas horas trabaja habitualmente en esta otra ocupación;Nominal;Entrada;10;Derecha;DOT8.2;DOT8.2
+C19;134;Categoría que tiene en Ocupación (Otras);Nominal;Entrada;5;Derecha;F1;F1
+D01;135;Estuvo disponible para trabajar más hs. en últimos 7 días;Nominal;Entrada;5;Derecha;F1;F1
+D02;136;Hs. tuvo disponible para trabajar;Escala;Entrada;10;Derecha;DOT8.2;DOT8.2
+D03;137;Desea mejorar ocupación, cambiar o adicionar otra ocupación;Nominal;Entrada;5;Derecha;F1;F1
+D04;138;Buscó algún otro trabajo en último 7 días;Nominal;Entrada;5;Derecha;F1;F1
+D05;139;Razón por qué desea mejorar, cambiar o adicionar empleo actual;Nominal;Entrada;5;Derecha;F2;F2
+E01A;140;Ingreso mensual Ocupación Principal declarado;Escala;Entrada;13;Derecha;F11;F11
+E01B;141;Ingreso mensual Ocupación Secundaria declarado;Escala;Entrada;13;Derecha;F11;F11
+E01C;142;Ingreso mensual Otras Ocupaciones declarado;Escala;Entrada;13;Derecha;F11;F11
+E01D;143;Ingreso mensual Alquileres o Rentas neto declarado;Escala;Entrada;13;Derecha;F11;F11
+E01E;144;Ingreso mensual Intereses, Dividendos o Utilidades declarado;Escala;Entrada;13;Derecha;F11;F11
+E01F;145;Ingreso mensual Ayuda Familiar del país declarado;Escala;Entrada;13;Derecha;F11;F11
+E01G;146;Ingreso mensual Prestación por divorcio o Asistencia alimentaria declarado;Escala;Entrada;13;Derecha;F11;F11
+E01H;147;Ingreso mensual Jubilación declarado;Escala;Entrada;13;Derecha;F11;F11
+E01I;148;Ingresos del Estado (Monetario: Tekopora) declarado;Escala;Entrada;13;Derecha;F11;F11
+E01J;149;Ingreso mensual Pensión declarado;Escala;Entrada;13;Derecha;F11;F11
+E01K;150;Ingresos del Estado (Monetario: Adulto Mayor) declarado;Escala;Entrada;13;Derecha;F11;F11
+E01L;151;Ingresos por Víveres de alguna institución pública;Escala;Entrada;13;Derecha;F11;F11
+E01M;152;Otros ingresos mensuales declarado;Escala;Entrada;13;Derecha;F11;F11
+ED01;153;Idioma que habla en la casa la mayor parte del tiempo;Nominal;Entrada;6;Derecha;F1;F1
+ED02;154;¿Sabe leer y escibir?;Nominal;Entrada;6;Derecha;F1;F1
+ED03;155;Asiste o asistió a una institución de ens. educativa;Nominal;Entrada;6;Derecha;F1;F1
+ED0504;156;Nivel y grado aprobado;Escala;Entrada;8;Derecha;F4;F4
+ED06C;157;Título o diploma que obtuvo;Nominal;Entrada;7;Derecha;F2;F2
+ED08;158;Asiste actualmente a una institución de enseñanza;Nominal;Entrada;6;Derecha;F2;F2
+ED09;159;Sector de la Institución donde asiste;Nominal;Entrada;6;Derecha;F1;F1
+ED10;160;Por qué no asiste o dejó de asistir;Nominal;Entrada;6;Derecha;F2;F2
+ED11F1;161;Durante el presente año escolar, ¿recibió gratuitamente desayuno o merienda?;Nominal;Entrada;8;Derecha;F1;F1
+ED11F1A;162;El mes pasado recibió gratuitamente desayuno o merienda?;Nominal;Entrada;9;Derecha;F1;F1
+ED11GH1;163;Durante el presente año escolar, ¿recibió gratuitamente almuerzo o cena;Nominal;Entrada;9;Derecha;F1;F1
+ED11GH1A;164;El mes pasado recibió gratuitamente almuerzo o cena;Nominal;Entrada;10;Derecha;F1;F1
+ED12;165;Realizó algún curso no formal del país para trabajar, ejercer un  oficio o mejorar nivel cultural;Nominal;Entrada;6;Derecha;F1;F1
+ED13;166;Qué tipo de curso fue el mas importante que hizo;Nominal;Entrada;6;Derecha;F2;F2
+ED14;167;Terminó este curso;Escala;Entrada;6;Derecha;F4;F4
+ED14A;168;En qué año terminó este curso;Nominal;Entrada;7;Derecha;F1;F1
+ED15;169;Qué institución dictó este curso que realizó;Nominal;Entrada;6;Derecha;F1;F1
+S01A;170;Tiene Seguro Médico vigente en el país (A);Nominal;Entrada;6;Derecha;F1;F1
+S01B;171;Tiene Seguro Médico vigente en el país (B);Nominal;Entrada;6;Derecha;F1;F1
+S02;172;¿A través de quién tiene IPS?;Nominal;Entrada;5;Derecha;F1;F1
+S03;173;Últimos 90 días estuvo enfermo/a o accidentado/a;Nominal;Entrada;5;Derecha;F1;F1
+S03A;174;Enfermedad que tuvo en los últimos 90 días_A;Nominal;Entrada;6;Derecha;F1;F1
+S03B;175;Enfermedad que tuvo en los últimos 90 días_B;Nominal;Entrada;6;Derecha;F1;F1
+S03C;176;Enfermedad que tuvo en los últimos 90 días_C;Nominal;Entrada;6;Derecha;F1;F1
+S04;177;Consultó algún médico, curand. y/o algún profes. de salud;Nominal;Entrada;5;Derecha;F1;F1
+S05;178;Por qué no consultó a alguien;Nominal;Entrada;5;Derecha;F1;F1
+S06;179;A quién consultó la última vez por enfermedad o accidente;Nominal;Entrada;5;Derecha;F2;F2
+S07;180;¿A qué establecimiento de salud acudió la última vez?;Nominal;Entrada;5;Derecha;F2;F2
+S08;181;Recibió medicamentos o remedios los últimos 90 días;Nominal;Entrada;5;Derecha;F1;F1
+S09;182;Se internó por la enfermedad o accidente;Nominal;Entrada;5;Derecha;F1;F1
+CATE_PEA;183;Categoría ocup. princ. últ. 7 días (Ocup. y Desoc. 2a. y más veces);Nominal;Entrada;13;Derecha;F8.2;F8.2
+TAMA_PEA;184;Tamaño empresa ocup. princ. últ. 7 días (Ocup. y Desoc. 2a. y más veces);Nominal;Entrada;10;Derecha;F2;F2
+OCUP_PEA;185;Ocupación Principal últ. 7 días (Ocup. y Desoc. 2a. y más veces Recodificada);Nominal;Entrada;10;Derecha;F2;F2
+RAMA_PEA;186;Rama de Actividad ocup. principal últ. 7 días (Ocup. y Desoc. 2a. y más veces Recodificada);Nominal;Entrada;10;Derecha;F2;F2
+HORAB;187;Horas habituales ocupación principal últimos 7 días;Escala;Entrada;7;Derecha;F3;F3
+HORABC;188;Horas habituales ocupación principal más secundaria últimos 7 días;Escala;Entrada;8;Derecha;F3;F3
+HORABCO;189;Horas habituales trabajadas en B, C y Otra actividad;Escala;Entrada;9;Derecha;F3;F3
+PEAD;190;Acividad Económica Desagregada (Horas Habituales B+C);Nominal;Entrada;6;Derecha;F1;F1
+PEAA;191;Actividad Económica Agrupada;Nominal;Entrada;6;Derecha;F1;F1
+TIPOHOGA;192;Tipo de Hogar;Nominal;Entrada;8;Derecha;F1;F1
+FEX;193;Factor de Expansión;Escala;Entrada;7;Derecha;F5;F5
+NJEF;194;Nivel de instrucción del Jefe;Escala;Entrada;6;Derecha;F4;F4
+NCON;195;Nivel de instrucción del Cónyuge;Escala;Entrada;6;Derecha;F4;F4
+NPAD;196;Nivel de instrucción del Padre;Escala;Entrada;6;Derecha;F4;F4
+NMAD;197;Nivel de instrucción de la Madre;Escala;Entrada;6;Derecha;F4;F4
+TIC01;198;En los últimos 3 meses ha utilizado teléfono celular;Nominal;Entrada;7;Derecha;F1;F1
+TIC02;199;En los últimos 3 meses ha utilizado computadora, notebook, tableta o dispositivo similar desde cualquier lugar;Nominal;Entrada;7;Derecha;F1;F1
+TIC03;200;En los últimos 3 meses ha utilizado Internet;Nominal;Entrada;7;Derecha;F1;F1
+TIC0401;201;Utilizó Intenet en el hogar;Nominal;Entrada;9;Derecha;F1;F1
+TIC0402;202;Utilizó Internet en el trabajo;Nominal;Entrada;9;Derecha;F1;F1
+TIC0403;203;Utilizó Internet en institución educativa;Nominal;Entrada;9;Derecha;F1;F1
+TIC0404;204;Utilizó Internet en casa de otra persona;Nominal;Entrada;9;Derecha;F1;F1
+TIC0405;205;Utilizó Internet en sitios comerciales (CYBER);Nominal;Entrada;9;Derecha;F1;F1
+TIC0406;206;Utilizó Internet en local de acceso comunitario/público;Nominal;Entrada;9;Derecha;F1;F1
+TIC0407;207;Utilizó Internet en cualquier lugar a través de un teléfono celular;Nominal;Entrada;9;Derecha;F1;F1
+TIC0408;208;Utilizó Internet en cualquier lugar a través de otros dispositivos;Nominal;Entrada;9;Derecha;F1;F1
+TIC0409;209;Utilizó Internet en otra modalidad;Nominal;Entrada;9;Derecha;F1;F1
+TIC0501;210;Utilizó Internet para redes sociales;Nominal;Entrada;9;Derecha;F1;F1
+TIC0502;211;Utilizó Internet para correos electrónicos;Nominal;Entrada;9;Derecha;F1;F1
+TIC0503;212;Utilizó Internet para mensajería instantánea;Nominal;Entrada;9;Derecha;F1;F1
+TIC0504;213;Utilizó Internet para comunicaciones telefónicas;Nominal;Entrada;9;Derecha;F1;F1
+TIC0505;214;Utilizó Internet para obtener información sobre productos y servicios;Nominal;Entrada;9;Derecha;F1;F1
+TIC0506;215;Utilizó Internet para obtener información sobre salud y servicios de salud;Nominal;Entrada;9;Derecha;F1;F1
+TIC0507;216;Utilizó Internet para obtener informacion/interactuar con instituciones del gobierno;Nominal;Entrada;9;Derecha;F1;F1
+TIC0508;217;Utilizó Internet para comprar y/o vender productos o servicios;Nominal;Entrada;9;Derecha;F1;F1
+TIC0509;218;Utilizó Internet para transacciones bancarias;Nominal;Entrada;9;Derecha;F1;F1
+TIC0510;219;Utilizó Internet para educación o capacitación;Nominal;Entrada;9;Derecha;F1;F1
+TIC0511;220;Utilizó Internet para leer o descargar periódicos, revistas;Nominal;Entrada;9;Derecha;F1;F1
+TIC0512;221;Utilizó Internet para usar/descargar juegos, videos, músicas, películas, programas informáticos;Nominal;Entrada;9;Derecha;F1;F1
+TIC0513;222;Otros usos de Internet;Nominal;Entrada;9;Derecha;F1;F1
+TIC06;223;Con qué frecuencia ha utilizado Internet durante los últimos 3 meses;Nominal;Entrada;7;Derecha;F1;F1
+TIC07;224;En los últimos 7 días ¿Utilizó internet para realizar teletrabajo?;Nominal;Entrada;7;Derecha;F1;F1
+añoest;225;Años de estudio;Nominal;Entrada;10;Derecha;F8.2;F8.2
+ra06ya09;226;Razón de inactividad;Nominal;Entrada;10;Derecha;F8;F8
+e01aimde;227;Ing por actividad principal corregido;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01bimde;228;Ing por actividad secundaria corregido;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01cimde;229;Ing por otras actividades corregido;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01dde;230;Ing por alquileres o rentas netas;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01ede;231;Ing por intereses o dividendos;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01fde;232;Ing por ayuda familiar del país;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01gde;233;Ing por divorcio / Asistencia alimentaria;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01hde;234;Ing por jubilación;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01ide;235;Ing del Estado Monetario Tekoporã;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01jde;236;Ing por pensión;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01kde;237;Ing del Estado Monetario Adulto Mayor;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01lde;238;Ing por víveres de alguna institución pública;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01mde;239;Otros ingresos;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e01kjde;240;Otros ingresos agro asignados al jefe;Escala;Entrada;21;Derecha;DOT19.3;DOT19.3
+e02bde;241;Ing por ayuda familiar del exterior;Escala;Entrada;10;Derecha;F8.2;F8.2
+ingrevasode;242;Ing por vaso de leche (kit de merienda escolar);Escala;Entrada;13;Derecha;F8.2;F8.2
+ipcm;243;Ingreso per cápita mensual;Escala;Entrada;10;Derecha;F8.2;F8.2
+pobrezai;244;Estatus de pobreza;Nominal;Entrada;10;Derecha;F8;F8
+pobnopoi;245;Condición de pobreza;Nominal;Entrada;10;Derecha;F8;F8
+quintili;246;Quintiles para el total país;Nominal;Entrada;10;Derecha;F3;F3
+decili;247;Deciles para el total país;Nominal;Entrada;8;Derecha;F3;F3
+quintiai;248;Quintiles para cada área;Nominal;Entrada;10;Derecha;F3;F3
+decilai;249;Deciles para cada área;Nominal;Entrada;9;Derecha;F3;F3
+informalidad;250;Ocupados no agropecuarios;Nominal;Entrada;14;Derecha;F8;F8
